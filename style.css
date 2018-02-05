@@ -1,0 +1,40 @@
+#blueCrystal{
+  height: 50px;
+  width: 50px;
+}
+
+#greenCrystal{
+  height: 50px;
+  width: 50px;
+}
+
+#blueDiamond{
+  height: 50px;
+  width: 50px;
+}
+
+#redDiamond{
+  height: 50px;
+  width: 50px;
+}
+
+body{
+  background-image: url("images/background.jpg");
+}
+
+.jumbotron{
+  background-color: transparent;
+  color: #e7e7e7;
+  font-family: 'Rammetto One', cursive;
+}
+
+.panel-heading{
+  background-color: black;
+  color: #e7e7e7;
+  font-family: 'Dosis', sans-serif;
+}
+
+.panel-body{
+  background-color: transparent;
+  font-family: 'Dosis', sans-serif;
+}
